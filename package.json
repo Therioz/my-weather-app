@@ -1,9 +1,21 @@
 {
+  "type": "module",
   "dependencies": {
     "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "lucide-react": "^0.475.0"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.17"
-  }
+  },
+  "name": "my-weather-app",
+  "version": "1.0.0",
+  "description": "My weather app to practice API functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
